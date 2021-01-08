@@ -4,6 +4,7 @@
 app/frontend/gui/node_modules
 app/frontend/gui/.pnp
 app/frontend/gui/.pnp.js
+app/frontend/gui/.eslintcache
 
 # testing
 app/frontend/gui/coverage
