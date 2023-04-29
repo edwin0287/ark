@@ -1,0 +1,11 @@
+extension para vs-code: 
+ES7 React/Redux/GraphQL/React-Native snippets
+
+--otras librerías a usar
+react router dom
+
+
+--img, iconos
+https://fontawesome.com/
+
+https://www.youtube.com/watch?v=w7OSE1-8F8s
